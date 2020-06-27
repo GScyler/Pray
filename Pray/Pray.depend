@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1593291709 source:c:\users\admin\desktop\pray\pray\main.cpp
+	"Flat.h"
+	"House.h"
+	"NonResidental.h"
+
+1593291588 c:\users\admin\desktop\pray\pray\include\flat.h
+	"Property.h"
+
+1593291608 c:\users\admin\desktop\pray\pray\include\property.h
+	<iostream>
+	<conio.h>
+
+1593291643 c:\users\admin\desktop\pray\pray\include\house.h
+	"Property.h"
+
+1593291629 c:\users\admin\desktop\pray\pray\include\nonresidental.h
+	"Property.h"
+
+1593291672 source:c:\users\admin\desktop\pray\pray\src\flat.cpp
+	"Flat.h"
+
+1593291691 source:c:\users\admin\desktop\pray\pray\src\house.cpp
+	"House.h"
+
+1593291723 source:c:\users\admin\desktop\pray\pray\src\nonresidental.cpp
+	"NonResidental.h"
+
+1593291744 source:c:\users\admin\desktop\pray\pray\src\property.cpp
+	"Property.h"
+
